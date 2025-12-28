@@ -15,6 +15,7 @@ Reply ONLY in valid JSON.
 Intents:
 - service_query
 - booking_request
+- booking_confirm
 - business_info
 - unknown
 
